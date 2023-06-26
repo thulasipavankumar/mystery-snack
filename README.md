@@ -8,7 +8,7 @@
 
 - it is a famous snack in south asia 
 - goes really well with **chai**
-- if the snack is drawn on 2D surface sum of all interior angles == **180**  
+- if the snack is drawn on 2D surface, sum of all interior angles == **180**  
 
 
 
